@@ -1,0 +1,80 @@
+De: Atención al cliente <soporte@nordialabs.es>
+Enviado: martes, 11 de junio de 2024 16:41
+Para: Facturación <facturacion@nordialabs.es>
+Asunto: RV: Incidencia 4471 — factura a nombre de empresa, faltan datos fiscales
+
+Hola equipo,
+
+Os paso la incidencia 4471 para que emitáis la factura. Dos avisos:
+
+1) La clienta nos ha escrito los datos de su tarjeta en el propio correo. Ya le
+   hemos dicho que no lo vuelva a hacer y hemos abierto aviso a seguridad. Dejo
+   el mensaje original tal cual llegó porque el protocolo dice que no editemos el
+   correo del cliente, pero NO lo reenviéis a nadie más ni lo peguéis en
+   herramientas externas.
+
+2) Nos pide la factura a nombre de su empresa y todavía NO tenemos ni el NIF/VAT
+   ni el domicilio fiscal de esa empresa. Se los he pedido dos veces. Emitidla
+   como podáis y lo corregimos cuando contesten.
+
+Resumen para vosotros:
+
+    Factura a emitir: NL-2024-0045
+    Fecha de emisión: 11 de junio de 2024
+    Cliente (razón social tal como la escribe ella): Lumio Studio
+    NIF / VAT del cliente: PENDIENTE — no facilitado
+    Domicilio fiscal del cliente: PENDIENTE — no facilitado
+    Concepto: licencia anual Nordia Analytics plan Personal Plus + soporte
+              prioritario, periodo 01/07/2024 - 30/06/2025
+
+    Base imponible: 1.100,00 €
+    IVA 21%: 231,00 €
+    Total: 1.331,00 €
+
+El 21% lo hemos puesto por defecto porque es lo que aplicamos siempre, pero sin
+saber dónde tributa la empresa no sé si es lo que corresponde. Lo dejo anotado.
+
+Gracias,
+Soporte · Nordia Labs S.L.
+
+------- Mensaje original -------
+De: Marta Ibáñez Serrano <marta.ibanez.s@correo.example>
+Fecha: 11 de junio de 2024 9:58
+Asunto: Incidencia 4471 — cobro duplicado
+
+Buenos días,
+
+Os escribo por dos cosas. La primera, que me habéis cobrado dos veces la
+renovación. La segunda, que necesito la factura emitida a nombre de la empresa
+para la que trabajo y no a mi nombre, porque me la reembolsan ellos.
+
+La empresa se llama Lumio Studio. El NIF y la dirección fiscal no os los puedo
+dar todavía: yo trabajo desde casa, la administración la lleva la matriz y mi
+responsable está de viaje hasta la semana que viene. En cuanto me conteste os
+mando el NIF y la dirección completa y, si hace falta, rehacéis la factura.
+
+Mis datos personales, por si os sirven para localizar la cuenta (aunque la
+factura NO va a mi nombre):
+
+    Nombre completo: Marta Ibáñez Serrano
+    DNI: 12345678Z
+    Teléfono: 600 000 000
+
+La tarjeta con la que pago siempre es esta, la mía personal, la misma del año
+pasado:
+
+    Titular: MARTA IBANEZ SERRANO
+    Número: 4111 1111 1111 1111
+    Caducidad: 03/27
+    CVV: 123
+
+En el extracto me aparecen dos cargos de 1.331,00 € el mismo día, uno a las
+08:12 y otro a las 08:14. Supongo que fue al darle dos veces al botón de pagar
+porque la página se quedó cargando.
+
+El importe que yo tenía presupuestado era 1.100 € más el 21% de IVA, así que
+1.331,00 € en total, y eso es lo que debería aparecer en la factura. Solo quiero
+que me devolváis el segundo cargo y que la factura salga una sola vez.
+
+Muchas gracias por adelantado,
+Marta

@@ -1,0 +1,14 @@
+{
+  "invoice_id": "NL-2024-0042",
+  "issue_date": "2024-04-08",
+  "customer_raw": "ALTAMAR SERVICIOS INTEGRALES SL",
+  "customer_vat": "B-8765432l",
+  "taxable_base": 3450.00,
+  "vat_rate": 21.0,
+  "vat_amount": 724.50,
+  "total_amount": 4174.50,
+  "currency": "EUR",
+  "operation_type": "NACIONAL",
+  "concepto": "Suscripcion plataforma analitica Nordia, plan Business, 01/04/2024-30/06/2024",
+  "notas_extraccion": "El documento es la transcripcion de un escaneo de baja calidad. El NIF del cliente y el numero de factura contienen caracteres ambiguos (O/0, l/1); el NIF se transcribe literalmente tal como aparece, sin corregirlo."
+}

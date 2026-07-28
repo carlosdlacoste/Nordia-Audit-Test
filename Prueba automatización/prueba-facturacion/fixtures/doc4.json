@@ -1,0 +1,16 @@
+{
+  "invoice_id": "NL-2024-0045",
+  "issue_date": "2024-06-11",
+  "customer_raw": "Lumio Studio",
+  "customer_country": null,
+  "customer_vat": null,
+  "taxable_base": 1100.00,
+  "vat_rate": 21.0,
+  "vat_amount": 231.00,
+  "total_amount": 1331.00,
+  "currency": "EUR",
+  "operation_type": "NACIONAL",
+  "concepto": "Licencia anual Nordia Analytics plan Personal Plus + soporte prioritario (01/07/2024 - 30/06/2025)",
+  "metodo_pago": "Tarjeta 4111 1111 1111 1111 (cad. 03/27), titular MARTA IBANEZ SERRANO",
+  "observaciones": "La factura se emite a nombre de la empresa Lumio Studio, pero el correo no facilita su NIF/VAT ni su domicilio fiscal (ambos figuran como PENDIENTE), por lo que esos dos campos quedan vacíos. El 21% lo aplicó soporte por defecto sin conocer el país de tributación. La incidencia 4471 reporta además un cobro duplicado de 1.331,00 € el mismo día (08:12 y 08:14); solo debe emitirse una factura. El correo original incluye el número de tarjeta completo y el DNI 12345678Z de la persona de contacto."
+}

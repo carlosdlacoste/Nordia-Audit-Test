@@ -1,0 +1,41 @@
+invoice_id,fecha_emision,cliente_raw,pais_cliente,vat_cliente,base_imponible,tipo_iva,cuota,total,moneda,concepto
+NL-2024-0001,2024-01-04,Oliveira Sistemas Lda,PT,PT513928472,8660.00,0.00,0.00,8660.00,EUR,Suscripción anual plataforma
+NL-2024-0002,2024-01-07,Aurelia Retail S.A.,ES,ESA28765436,7520.00,21.00,1579.20,9099.20,EUR,Soporte prioritario
+NL-2024-0003,2024-01-12,Grupo Meridian Consultoría S.L.,ES,ESB45190287,3220.00,21.00,676.20,3896.20,EUR,Consultoría implantación
+NL-2024-0004,2024-01-15,Talleres Bergara S.L.,ES,ESB66314709,8190.00,21.00,1719.90,9909.90,EUR,Licencias adicionales
+NL-2024-0005,2024-01-19,Talleres Bergara S.L.,ES,ESB66314709,1320.00,21.00,277.20,1597.20,EUR,Soporte prioritario
+NL-2024-0006,2024-01-23,Grupo Meridian Consultoría S.L.,ES,ESB45190287,1240.00,21.00,260.41,1500.41,EUR,Consultoría implantación
+NL-2024-0007,2024-01-28,Van Dijk Data B.V.,NL,NL807145233B01,9050.00,0.00,0.00,9050.00,EUR,Licencias adicionales
+NL-2024-0008,2024-02-01,Aurelia Retail S.A.,ES,ESA28765436,8640.00,21.00,1814.40,10454.40,EUR,Suscripción anual plataforma
+NL-2024-0009,2024-02-05,VANTOR G.m.b.H.,DE,DE238745911,3850.00,0.00,0.00,3850.00,EUR,Soporte prioritario
+NL-2024-0010,2024-02-08,Redwood Metrics Inc.,US,,4250.00,0.00,0.00,4250.00,EUR,Suscripción mensual plataforma
+NL-2024-0011,2024-02-14,Ferrante Analytics S.r.l.,IT,IT12739052814,8870.00,0.00,0.00,8870.00,EUR,Migración de datos históricos
+NL-2024-0012,2024-02-18,Grupo Meridian Consultoría S.L.,ES,ESB45190287,6290.00,21.00,1320.90,7610.90,EUR,Formación equipo Q1
+NL-2024-0013,2024-02-21,Blauwerk Systeme GmbH,DE,DE811925031,4800.00,0.00,0.00,4800.00,EUR,Desarrollo integración API
+NL-2024-0014,2024-02-25,Duero Logística S.A.,ES,ESA17492364,7150.00,21.00,1501.50,8651.50,EUR,Formación equipo Q1
+NL-2024-0015,2024-03-01,Insular Media S.L. (Las Palmas de Gran Canaria),ES,ESB71502637,2800.00,0.00,0.00,2800.00,EUR,Suscripción anual plataforma
+NL-2024-0016,2024-03-04,Kilcarra Software Ltd,IE,IE4172583C,9130.00,0.00,0.00,9130.00,EUR,Formación equipo Q1
+NL-2024-0017,2024-03-08,Thornbury Analytics Ltd,GB,GB428765124,3200.00,0.00,0.00,3200.00,EUR,Consultoría implantación
+NL-2024-0018,2024-03-13,Duero Logística S.A.,ES,ESA17492364,3220.00,21.00,676.20,3896.20,EUR,Auditoría de datos
+NL-2024-0019,2024-03-17,Aurelia Retail S.A.,ES,ESA28765436,2000.00,21.00,420.00,2420.00,EUR,Licencias adicionales
+NL-2024-0020,2024-03-17,Aurelia Retail S.A.,ES,ESA28765436,2000.00,21.00,420.00,2420.00,EUR,Licencias adicionales
+NL-2024-0021,2024-03-26,Grupo Meridian Consultoría S.L.,ES,ESB45190287,4010.00,21.00,842.10,4852.10,EUR,Formación equipo Q1
+NL-2024-0023,2024-04-03,Ferrante Analytics S.r.l.,IT,IT12739052814,7560.00,0.00,0.00,7560.00,EUR,Suscripción mensual plataforma
+NL-2024-0024,2024-04-06,Laura Ferreiro Sanz,ES,,890.00,21.00,186.90,1076.90,EUR,Formación equipo Q1
+NL-2024-0025,2024-04-10,Sarriá Móvil Servicios S.L.,ES,ESB28405199,2050.00,21.00,430.50,2480.50,EUR,Auditoría de datos
+NL-2024-0026,2024-04-15,Talleres Bergara S.L.,ES,ESB66314709,4300.00,21.00,903.00,4300.00,EUR,Migración de datos históricos
+NL-2024-0027,2024-04-19,Van Dijk Data B.V.,NL,NL807145233B01,6930.00,0.00,0.00,6930.00,EUR,Desarrollo integración API
+NL-2024-0028,2024-04-22,Lumière Conseil SARL,FR,FR55492817309,7390.00,0.00,0.00,7390.00,EUR,Licencias adicionales
+NL-2024-0029,2024-04-26,Teide Servicios Informáticos S.L. (Santa Cruz de Tenerife),ES,ESB82614033,1650.00,0.00,0.00,1650.00,EUR,Suscripción anual plataforma
+NL-2024-0030,2024-04-30,Innova Salud Levante S.L.,ES,ESB33928458,8790.00,21.00,1845.90,10635.90,EUR,Suscripción anual plataforma
+NL-2024-0031,2024-05-05,Vantor GmbH,DE,DE238745911,12400.00,21.00,2604.00,15004.00,EUR,Consultoría implantación
+NL-2024-0032,2024-05-10,Aurelia Retail S.A.,ES,ESA28765436,3120.00,21.00,655.20,3775.20,EUR,Suscripción mensual plataforma
+NL-2024-0033,2024-05-13,Talleres Bergara S.L.,ES,ESB66314709,6180.00,21.00,1297.80,7477.80,EUR,Licencias adicionales
+NL-2024-0034,2024-05-17,Atelier Numérique SAS,FR,FR4055,2150.00,0.00,0.00,2150.00,EUR,Auditoría de datos
+NL-2024-0035,2024-05-22,Oliveira Sistemas Lda,PT,PT513928472,4430.00,0.00,0.00,4430.00,EUR,Auditoría de datos
+NL-2024-0036,2024-05-25,Vantor Gmbh ,DE,DE238745911,2760.00,0.00,0.00,2760.00,EUR,Licencias adicionales
+NL-2024-0037,2024-05-30,Redwood Metrics Inc.,US,,1800.00,0.00,0.00,1800.00,EUR,Formación equipo Q1
+NL-2024-0038,2024-06-03,Castellani Ricerca S.r.l.,IT,,3600.00,0.00,0.00,3600.00,EUR,Soporte prioritario
+NL-2024-0039,2024-06-07,Innova Salud Levante S.L.,ES,ESB33928458,9570.00,21.00,2009.70,11579.70,EUR,Migración de datos históricos
+NL-2024-0040,2024-06-11,Sarriá Móvil Servicios S.L.,ES,ESB28405199,4080.00,21.00,856.80,4936.80,EUR,Formación equipo Q1
+NL-2024-0041,2024-06-15,Lumière Conseil SARL,FR,FR55492817309,5590.00,0.00,0.00,5590.00,EUR,Auditoría de datos

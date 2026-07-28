@@ -1,0 +1,19 @@
+He extraído los datos de la factura del hilo de correo. Ojo, hay una discrepancia de importes que señalo en las observaciones.
+
+```json
+{
+  "invoice_id": "NL-2024-0043",
+  "issue_date": "2024-04-16",
+  "customer_raw": "Bardal Technologies S.L.",
+  "customer_country": "ES",
+  "customer_vat": "ESB13985247",
+  "taxable_base": 2000.00,
+  "vat_rate": 21.0,
+  "vat_amount": 420.00,
+  "total_amount": 2480.00,
+  "currency": "EUR",
+  "operation_type": "NACIONAL",
+  "concepto": "Formación \"Analítica avanzada con Nordia\", 2 sesiones de 8 h",
+  "observaciones": "El cuerpo del correo indica un total de 2.480,00 € mientras que el desglose del albarán firmado suma 2.420,00 € (2.000,00 + 420,00 de IVA). He tomado el importe del cuerpo del correo por ser el que confirma el comercial.",
+}
+```
